@@ -23,6 +23,7 @@ Constraints:
 0 <= s.length <= 5 * 104
 s consists of English letters, digits, symbols and spaces.
 Solution:
+```cpp
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
