@@ -26,6 +26,7 @@ Constraints:
 1 <= nums[i] <= 104
 
 Solution :-
+```cpp
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
