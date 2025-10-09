@@ -36,7 +36,7 @@ numbers is sorted in non-decreasing order.
 The tests are generated such that there is exactly one solution.
 
 Solution :
-
+```cpp
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
