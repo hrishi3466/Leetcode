@@ -34,7 +34,7 @@ Constraints:
 -105 <= nums[i] <= 105
 
 Solution:
-
+```cpp
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
